@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.Header {
+  background-color: yellow;
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+  padding-right: 30px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+}
+.Menu {
+  background-color: blue;
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+}
+.Body {
+  background-color: Gray;
+  text-align: center;
+  color: white;
+  padding-top: 300px;
+  padding-right: 30px;
+  padding-bottom: 300px;
+  padding-left: 80px;
+}
+.Footer {
+  background-color: mintgreen;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+}
+</style>
+<title>Title</title>
+</head>
+<body>
+
+<div class="My Name">
+<h1>Vic Gaabon's Pizzeria</h1>
+</div>
+<br>
+<div class="Menu" style="text-align: center;">
+  <div style="display:inline-block; justify-content: center; padding-right: 10px; padding-left: 10px;"><h2>HOME</h2></div>
+  <div style="display:inline-block; justify-content: center; padding-right: 10px; padding-left: 10px;""><h2>ABOUT US</h2></div>
+  <div style="display:inline-block; justify-content: center; padding-right: 10px; padding-left: 10px;""><h2>SERVICES</h2></div>
+  <div style="display:inline-block; justify-content: center; padding-right: 10px; padding-left: 10px;""><h2>CONTACT US</h2></div>
+</div>
+<br>
+<div class="Body">
+<h1>Kamoy Bayad, Kamo pud Ang mag luto, kaya nana ninyo, kamo bitaw gihapon mag kaon, Self service ba sheesh..</h1>
+</div>
+<br>
+<div class="Footer">
+<h1>All rights reserved 2023</h1>
+</div>
+</body>
+</html> 
